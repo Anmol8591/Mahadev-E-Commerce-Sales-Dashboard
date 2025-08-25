@@ -16,32 +16,30 @@ Visualizations Used:
 Sales by State (Sum of Amount by State)
 Visualization Type: Stacked Line Chart
 
-Purpose: To analyze the distribution of sales across different states.
+Connections:
+Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
 
+Purpose: To analyze the distribution of sales across different states.
 Sales by Customer Name (Sum of Amount by Customer Name)
 
 Visualization Type: Stacked Column Chart
 
 Purpose: To identify the top contributing customers to overall sales.
-
 Quantity Sold by Category (Sum of Quantity by Category)
 
 Visualization Type: Donut Chart
 
 Purpose: To understand product performance across various categories.
-
 Quantity Sold by Payment Mode (Sum of Quantity by Payment Mode)
 
 Visualization Type: Donut Chart
 
 Purpose: To evaluate customer preferences for different payment methods.
-
 Monthly Profit Trend (Profit by Month)
 
 Visualization Type: Stacked Column Chart
 
 Purpose: To track profit growth or decline on a monthly basis.
-
 Profit by Sub-Category (Sum of Profit by Sub-Category)
 
 Visualization Type: Stacked Bar Chart
